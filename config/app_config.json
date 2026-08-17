@@ -1,0 +1,6 @@
+{
+  "title": "PAINEL OPERACIONAL - NORTE",
+  "main_api_url": "https://operview-ce-sapi.enel.com/datalake/incidencias-ativas",
+  "legacy_api_url": "http://wstecnicaindicadoresce.enelint.global/WsPenNPen.svc/ConsultarProjetoTempoReal",
+  "refresh_seconds": 180
+}
