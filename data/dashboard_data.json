@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "PAINEL OPERACIONAL - NORTE",
-    "updated_at_iso": "2026-08-22T06:26:38",
-    "updated_at_display": "22/08/2026 06:26:38",
-    "data_updated_at_iso": "2026-08-22T06:26:38",
-    "data_updated_at_display": "22/08/2026 06:26:38",
+    "updated_at_iso": "2026-08-22T06:43:29",
+    "updated_at_display": "22/08/2026 06:43:29",
+    "data_updated_at_iso": "2026-08-22T06:43:29",
+    "data_updated_at_display": "22/08/2026 06:43:29",
     "refresh_seconds": 1000,
     "source_mode": "API corporativa + API legada"
   },
@@ -10120,10 +10120,10 @@
       {
         "numero": "0041838169",
         "numero_display": "41838169",
-        "duracao": "04:58",
-        "duracao_horas": 4.966666666666667,
+        "duracao": "05:15",
+        "duracao_horas": 5.25,
         "clientes_afetados": 1,
-        "conh": 4.9426,
+        "conh": 5.2447,
         "municipio": "Viçosa do Ceará",
         "municipio_norm": "VICOSA DO CEARA",
         "regional": "TIANGUÁ",
@@ -10145,10 +10145,10 @@
       {
         "numero": "0041838393",
         "numero_display": "41838393",
-        "duracao": "00:11",
-        "duracao_horas": 0.18333333333333332,
+        "duracao": "00:28",
+        "duracao_horas": 0.4666666666666667,
         "clientes_afetados": 1,
-        "conh": 0.1494,
+        "conh": 0.4516,
         "municipio": "Mucambo",
         "municipio_norm": "MUCAMBO",
         "regional": "TIANGUÁ",
@@ -10172,10 +10172,10 @@
       {
         "numero": "0041838169",
         "numero_display": "41838169",
-        "duracao": "04:58",
-        "duracao_horas": 4.966666666666667,
+        "duracao": "05:15",
+        "duracao_horas": 5.25,
         "clientes_afetados": 1,
-        "conh": 4.9426,
+        "conh": 5.2447,
         "municipio": "Viçosa do Ceará",
         "municipio_norm": "VICOSA DO CEARA",
         "regional": "TIANGUÁ",
@@ -10197,10 +10197,10 @@
       {
         "numero": "0041838393",
         "numero_display": "41838393",
-        "duracao": "00:11",
-        "duracao_horas": 0.18333333333333332,
+        "duracao": "00:28",
+        "duracao_horas": 0.4666666666666667,
         "clientes_afetados": 1,
-        "conh": 0.1494,
+        "conh": 0.4516,
         "municipio": "Mucambo",
         "municipio_norm": "MUCAMBO",
         "regional": "TIANGUÁ",
@@ -10224,10 +10224,10 @@
       {
         "numero": "0041838393",
         "numero_display": "41838393",
-        "duracao": "00:11",
-        "duracao_horas": 0.18333333333333332,
+        "duracao": "00:28",
+        "duracao_horas": 0.4666666666666667,
         "clientes_afetados": 1,
-        "conh": 0.1494,
+        "conh": 0.4516,
         "municipio": "Mucambo",
         "municipio_norm": "MUCAMBO",
         "regional": "TIANGUÁ",
@@ -10249,10 +10249,10 @@
       {
         "numero": "0041838169",
         "numero_display": "41838169",
-        "duracao": "04:58",
-        "duracao_horas": 4.966666666666667,
+        "duracao": "05:15",
+        "duracao_horas": 5.25,
         "clientes_afetados": 1,
-        "conh": 4.9426,
+        "conh": 5.2447,
         "municipio": "Viçosa do Ceará",
         "municipio_norm": "VICOSA DO CEARA",
         "regional": "TIANGUÁ",
@@ -10281,7 +10281,7 @@
         "municipio": "Viçosa do Ceará",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 4.94
+        "chi": 5.24
       },
       {
         "equipe": "STM-RD-70B",
@@ -10289,7 +10289,7 @@
         "municipio": "Mucambo",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 0.15
+        "chi": 0.45
       }
     ],
     "totals": {
@@ -10301,10 +10301,10 @@
     {
       "numero": "0041838169",
       "numero_display": "41838169",
-      "duracao": "04:58",
-      "duracao_horas": 4.966666666666667,
+      "duracao": "05:15",
+      "duracao_horas": 5.25,
       "clientes_afetados": 1,
-      "conh": 4.9426,
+      "conh": 5.2447,
       "municipio": "Viçosa do Ceará",
       "municipio_norm": "VICOSA DO CEARA",
       "regional": "TIANGUÁ",
@@ -10326,10 +10326,10 @@
     {
       "numero": "0041838393",
       "numero_display": "41838393",
-      "duracao": "00:11",
-      "duracao_horas": 0.18333333333333332,
+      "duracao": "00:28",
+      "duracao_horas": 0.4666666666666667,
       "clientes_afetados": 1,
-      "conh": 0.1494,
+      "conh": 0.4516,
       "municipio": "Mucambo",
       "municipio_norm": "MUCAMBO",
       "regional": "TIANGUÁ",
@@ -10350,11 +10350,11 @@
     }
   ],
   "metadata": {
-    "raw_total": 229,
-    "legacy_total": 230,
+    "raw_total": 227,
+    "legacy_total": 226,
     "territory_total": 2,
     "dropped_finalizado": 1,
-    "dropped_unmapped": 226,
+    "dropped_unmapped": 224,
     "mapped_by_alimentador": 2,
     "mapped_by_conjunto": 0,
     "mapped_by_sucursal": 0,
