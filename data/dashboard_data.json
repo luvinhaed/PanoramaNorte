@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "PAINEL OPERACIONAL - NORTE",
-    "updated_at_iso": "2026-08-22T05:52:56",
-    "updated_at_display": "22/08/2026 05:52:56",
-    "data_updated_at_iso": "2026-08-22T05:52:56",
-    "data_updated_at_display": "22/08/2026 05:52:56",
+    "updated_at_iso": "2026-08-22T06:09:47",
+    "updated_at_display": "22/08/2026 06:09:47",
+    "data_updated_at_iso": "2026-08-22T06:09:47",
+    "data_updated_at_display": "22/08/2026 06:09:47",
     "refresh_seconds": 1000,
     "source_mode": "API corporativa + API legada"
   },
@@ -10120,10 +10120,10 @@
       {
         "numero": "0041835495",
         "numero_display": "41835495",
-        "duracao": "14:46",
-        "duracao_horas": 14.766666666666667,
+        "duracao": "15:03",
+        "duracao_horas": 15.05,
         "clientes_afetados": 1,
-        "conh": 14.7546,
+        "conh": 15.0563,
         "municipio": "Tianguá",
         "municipio_norm": "TIANGUA",
         "regional": "TIANGUÁ",
@@ -10145,10 +10145,10 @@
       {
         "numero": "0041838169",
         "numero_display": "41838169",
-        "duracao": "04:25",
-        "duracao_horas": 4.416666666666667,
+        "duracao": "04:42",
+        "duracao_horas": 4.7,
         "clientes_afetados": 1,
-        "conh": 4.3932,
+        "conh": 4.6949,
         "municipio": "Viçosa do Ceará",
         "municipio_norm": "VICOSA DO CEARA",
         "regional": "TIANGUÁ",
@@ -10172,10 +10172,10 @@
       {
         "numero": "0041835495",
         "numero_display": "41835495",
-        "duracao": "14:46",
-        "duracao_horas": 14.766666666666667,
+        "duracao": "15:03",
+        "duracao_horas": 15.05,
         "clientes_afetados": 1,
-        "conh": 14.7546,
+        "conh": 15.0563,
         "municipio": "Tianguá",
         "municipio_norm": "TIANGUA",
         "regional": "TIANGUÁ",
@@ -10197,10 +10197,10 @@
       {
         "numero": "0041838169",
         "numero_display": "41838169",
-        "duracao": "04:25",
-        "duracao_horas": 4.416666666666667,
+        "duracao": "04:42",
+        "duracao_horas": 4.7,
         "clientes_afetados": 1,
-        "conh": 4.3932,
+        "conh": 4.6949,
         "municipio": "Viçosa do Ceará",
         "municipio_norm": "VICOSA DO CEARA",
         "regional": "TIANGUÁ",
@@ -10224,10 +10224,10 @@
       {
         "numero": "0041838169",
         "numero_display": "41838169",
-        "duracao": "04:25",
-        "duracao_horas": 4.416666666666667,
+        "duracao": "04:42",
+        "duracao_horas": 4.7,
         "clientes_afetados": 1,
-        "conh": 4.3932,
+        "conh": 4.6949,
         "municipio": "Viçosa do Ceará",
         "municipio_norm": "VICOSA DO CEARA",
         "regional": "TIANGUÁ",
@@ -10249,10 +10249,10 @@
       {
         "numero": "0041835495",
         "numero_display": "41835495",
-        "duracao": "14:46",
-        "duracao_horas": 14.766666666666667,
+        "duracao": "15:03",
+        "duracao_horas": 15.05,
         "clientes_afetados": 1,
-        "conh": 14.7546,
+        "conh": 15.0563,
         "municipio": "Tianguá",
         "municipio_norm": "TIANGUA",
         "regional": "TIANGUÁ",
@@ -10281,7 +10281,7 @@
         "municipio": "Tianguá",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 14.75
+        "chi": 15.06
       },
       {
         "equipe": "STV-RD-30B",
@@ -10289,7 +10289,7 @@
         "municipio": "Viçosa do Ceará",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 4.39
+        "chi": 4.69
       }
     ],
     "totals": {
@@ -10301,10 +10301,10 @@
     {
       "numero": "0041835495",
       "numero_display": "41835495",
-      "duracao": "14:46",
-      "duracao_horas": 14.766666666666667,
+      "duracao": "15:03",
+      "duracao_horas": 15.05,
       "clientes_afetados": 1,
-      "conh": 14.7546,
+      "conh": 15.0563,
       "municipio": "Tianguá",
       "municipio_norm": "TIANGUA",
       "regional": "TIANGUÁ",
@@ -10326,10 +10326,10 @@
     {
       "numero": "0041838169",
       "numero_display": "41838169",
-      "duracao": "04:25",
-      "duracao_horas": 4.416666666666667,
+      "duracao": "04:42",
+      "duracao_horas": 4.7,
       "clientes_afetados": 1,
-      "conh": 4.3932,
+      "conh": 4.6949,
       "municipio": "Viçosa do Ceará",
       "municipio_norm": "VICOSA DO CEARA",
       "regional": "TIANGUÁ",
@@ -10350,11 +10350,11 @@
     }
   ],
   "metadata": {
-    "raw_total": 223,
-    "legacy_total": 223,
+    "raw_total": 224,
+    "legacy_total": 225,
     "territory_total": 2,
-    "dropped_finalizado": 2,
-    "dropped_unmapped": 219,
+    "dropped_finalizado": 1,
+    "dropped_unmapped": 221,
     "mapped_by_alimentador": 2,
     "mapped_by_conjunto": 0,
     "mapped_by_sucursal": 0,
