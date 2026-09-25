@@ -1,12 +1,12 @@
 {
-  "updated_at_iso": "2026-09-25T15:08:49",
-  "updated_at_display": "25/09/2026 15:08:49",
-  "data_updated_at_iso": "2026-09-25T15:08:49",
-  "data_updated_at_display": "25/09/2026 15:08:49",
-  "raw_total": 745,
-  "legacy_total": 745,
-  "territory_total": 91,
-  "mapped_on_map": 75,
-  "mapped_by_sucursal_fallback": 16,
-  "hash": "a4dce1d8bf0f2216178352fce44ef78fe75bd7dabd20136b078bf56b42d66989"
+  "updated_at_iso": "2026-09-25T15:25:44",
+  "updated_at_display": "25/09/2026 15:25:44",
+  "data_updated_at_iso": "2026-09-25T15:25:44",
+  "data_updated_at_display": "25/09/2026 15:25:44",
+  "raw_total": 724,
+  "legacy_total": 724,
+  "territory_total": 88,
+  "mapped_on_map": 71,
+  "mapped_by_sucursal_fallback": 17,
+  "hash": "3d31a20122a5c86baf313ec02c0dcc769837e3ff45ff7c846961a77cb174a82b"
 }
