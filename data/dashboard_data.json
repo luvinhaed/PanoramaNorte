@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "PAINEL OPERACIONAL - NORTE",
-    "updated_at_iso": "2026-09-28T03:02:47",
-    "updated_at_display": "28/09/2026 03:02:47",
-    "data_updated_at_iso": "2026-09-28T03:02:47",
-    "data_updated_at_display": "28/09/2026 03:02:47",
+    "updated_at_iso": "2026-09-28T03:19:37",
+    "updated_at_display": "28/09/2026 03:19:37",
+    "data_updated_at_iso": "2026-09-28T03:19:37",
+    "data_updated_at_display": "28/09/2026 03:19:37",
     "refresh_seconds": 1000,
     "source_mode": "API corporativa + API legada"
   },
@@ -10120,10 +10120,10 @@
       {
         "numero": "0042098573",
         "numero_display": "42098573",
-        "duracao": "04:02",
-        "duracao_horas": 4.033333333333333,
+        "duracao": "04:21",
+        "duracao_horas": 4.35,
         "clientes_afetados": 1,
-        "conh": 4.0307,
+        "conh": 4.3302,
         "municipio": "Massapê",
         "municipio_norm": "MASSAPE",
         "regional": "SOBRAL",
@@ -10147,10 +10147,10 @@
       {
         "numero": "0042098573",
         "numero_display": "42098573",
-        "duracao": "04:02",
-        "duracao_horas": 4.033333333333333,
+        "duracao": "04:21",
+        "duracao_horas": 4.35,
         "clientes_afetados": 1,
-        "conh": 4.0307,
+        "conh": 4.3302,
         "municipio": "Massapê",
         "municipio_norm": "MASSAPE",
         "regional": "SOBRAL",
@@ -10174,10 +10174,10 @@
       {
         "numero": "0042098573",
         "numero_display": "42098573",
-        "duracao": "04:02",
-        "duracao_horas": 4.033333333333333,
+        "duracao": "04:21",
+        "duracao_horas": 4.35,
         "clientes_afetados": 1,
-        "conh": 4.0307,
+        "conh": 4.3302,
         "municipio": "Massapê",
         "municipio_norm": "MASSAPE",
         "regional": "SOBRAL",
@@ -10206,7 +10206,7 @@
         "municipio": "Massapê",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 4.03
+        "chi": 4.33
       }
     ],
     "totals": {
@@ -10218,10 +10218,10 @@
     {
       "numero": "0042098573",
       "numero_display": "42098573",
-      "duracao": "04:02",
-      "duracao_horas": 4.033333333333333,
+      "duracao": "04:21",
+      "duracao_horas": 4.35,
       "clientes_afetados": 1,
-      "conh": 4.0307,
+      "conh": 4.3302,
       "municipio": "Massapê",
       "municipio_norm": "MASSAPE",
       "regional": "SOBRAL",
@@ -10242,11 +10242,11 @@
     }
   ],
   "metadata": {
-    "raw_total": 162,
-    "legacy_total": 161,
+    "raw_total": 161,
+    "legacy_total": 159,
     "territory_total": 1,
     "dropped_finalizado": 0,
-    "dropped_unmapped": 161,
+    "dropped_unmapped": 160,
     "mapped_by_alimentador": 1,
     "mapped_by_conjunto": 0,
     "mapped_by_sucursal": 0,
