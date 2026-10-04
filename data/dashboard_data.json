@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "PAINEL OPERACIONAL - NORTE",
-    "updated_at_iso": "2026-10-04T05:39:43",
-    "updated_at_display": "04/10/2026 05:39:43",
-    "data_updated_at_iso": "2026-10-04T05:39:43",
-    "data_updated_at_display": "04/10/2026 05:39:43",
+    "updated_at_iso": "2026-10-04T05:56:32",
+    "updated_at_display": "04/10/2026 05:56:32",
+    "data_updated_at_iso": "2026-10-04T05:56:32",
+    "data_updated_at_display": "04/10/2026 05:56:32",
     "refresh_seconds": 1000,
     "source_mode": "API corporativa + API legada"
   },
@@ -10120,10 +10120,10 @@
       {
         "numero": "0042149865",
         "numero_display": "42149865",
-        "duracao": "01:10",
-        "duracao_horas": 1.1666666666666667,
+        "duracao": "01:27",
+        "duracao_horas": 1.45,
         "clientes_afetados": 1,
-        "conh": 1.1652,
+        "conh": 1.4155,
         "municipio": "Coreaú",
         "municipio_norm": "COREAU",
         "regional": "SOBRAL",
@@ -10145,10 +10145,10 @@
       {
         "numero": "0042149883",
         "numero_display": "42149883",
-        "duracao": "00:51",
-        "duracao_horas": 0.85,
+        "duracao": "01:08",
+        "duracao_horas": 1.1333333333333333,
         "clientes_afetados": 1,
-        "conh": 0.8594,
+        "conh": 1.1097,
         "municipio": "Camocim",
         "municipio_norm": "CAMOCIM",
         "regional": "CAMOCIM",
@@ -10172,10 +10172,10 @@
       {
         "numero": "0042149865",
         "numero_display": "42149865",
-        "duracao": "01:10",
-        "duracao_horas": 1.1666666666666667,
+        "duracao": "01:27",
+        "duracao_horas": 1.45,
         "clientes_afetados": 1,
-        "conh": 1.1652,
+        "conh": 1.4155,
         "municipio": "Coreaú",
         "municipio_norm": "COREAU",
         "regional": "SOBRAL",
@@ -10197,10 +10197,10 @@
       {
         "numero": "0042149883",
         "numero_display": "42149883",
-        "duracao": "00:51",
-        "duracao_horas": 0.85,
+        "duracao": "01:08",
+        "duracao_horas": 1.1333333333333333,
         "clientes_afetados": 1,
-        "conh": 0.8594,
+        "conh": 1.1097,
         "municipio": "Camocim",
         "municipio_norm": "CAMOCIM",
         "regional": "CAMOCIM",
@@ -10224,10 +10224,10 @@
       {
         "numero": "0042149883",
         "numero_display": "42149883",
-        "duracao": "00:51",
-        "duracao_horas": 0.85,
+        "duracao": "01:08",
+        "duracao_horas": 1.1333333333333333,
         "clientes_afetados": 1,
-        "conh": 0.8594,
+        "conh": 1.1097,
         "municipio": "Camocim",
         "municipio_norm": "CAMOCIM",
         "regional": "CAMOCIM",
@@ -10249,10 +10249,10 @@
       {
         "numero": "0042149865",
         "numero_display": "42149865",
-        "duracao": "01:10",
-        "duracao_horas": 1.1666666666666667,
+        "duracao": "01:27",
+        "duracao_horas": 1.45,
         "clientes_afetados": 1,
-        "conh": 1.1652,
+        "conh": 1.4155,
         "municipio": "Coreaú",
         "municipio_norm": "COREAU",
         "regional": "SOBRAL",
@@ -10281,7 +10281,7 @@
         "municipio": "Coreaú",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 1.17
+        "chi": 1.42
       },
       {
         "equipe": "CMK-RD-01D",
@@ -10289,7 +10289,7 @@
         "municipio": "Camocim",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 0.86
+        "chi": 1.11
       }
     ],
     "totals": {
@@ -10301,10 +10301,10 @@
     {
       "numero": "0042149865",
       "numero_display": "42149865",
-      "duracao": "01:10",
-      "duracao_horas": 1.1666666666666667,
+      "duracao": "01:27",
+      "duracao_horas": 1.45,
       "clientes_afetados": 1,
-      "conh": 1.1652,
+      "conh": 1.4155,
       "municipio": "Coreaú",
       "municipio_norm": "COREAU",
       "regional": "SOBRAL",
@@ -10326,10 +10326,10 @@
     {
       "numero": "0042149883",
       "numero_display": "42149883",
-      "duracao": "00:51",
-      "duracao_horas": 0.85,
+      "duracao": "01:08",
+      "duracao_horas": 1.1333333333333333,
       "clientes_afetados": 1,
-      "conh": 0.8594,
+      "conh": 1.1097,
       "municipio": "Camocim",
       "municipio_norm": "CAMOCIM",
       "regional": "CAMOCIM",
@@ -10351,7 +10351,7 @@
   ],
   "metadata": {
     "raw_total": 104,
-    "legacy_total": 105,
+    "legacy_total": 106,
     "territory_total": 2,
     "dropped_finalizado": 0,
     "dropped_unmapped": 102,
