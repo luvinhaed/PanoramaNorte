@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "PAINEL OPERACIONAL - NORTE",
-    "updated_at_iso": "2026-10-04T06:13:22",
-    "updated_at_display": "04/10/2026 06:13:22",
-    "data_updated_at_iso": "2026-10-04T06:13:22",
-    "data_updated_at_display": "04/10/2026 06:13:22",
+    "updated_at_iso": "2026-10-04T06:31:56",
+    "updated_at_display": "04/10/2026 06:31:56",
+    "data_updated_at_iso": "2026-10-04T06:31:56",
+    "data_updated_at_display": "04/10/2026 06:31:56",
     "refresh_seconds": 1000,
     "source_mode": "API corporativa + API legada"
   },
@@ -10120,10 +10120,10 @@
       {
         "numero": "0042149883",
         "numero_display": "42149883",
-        "duracao": "01:25",
-        "duracao_horas": 1.4166666666666667,
+        "duracao": "01:42",
+        "duracao_horas": 1.7,
         "clientes_afetados": 1,
-        "conh": 1.4098,
+        "conh": 1.6615,
         "municipio": "Camocim",
         "municipio_norm": "CAMOCIM",
         "regional": "CAMOCIM",
@@ -10147,10 +10147,10 @@
       {
         "numero": "0042149883",
         "numero_display": "42149883",
-        "duracao": "01:25",
-        "duracao_horas": 1.4166666666666667,
+        "duracao": "01:42",
+        "duracao_horas": 1.7,
         "clientes_afetados": 1,
-        "conh": 1.4098,
+        "conh": 1.6615,
         "municipio": "Camocim",
         "municipio_norm": "CAMOCIM",
         "regional": "CAMOCIM",
@@ -10174,10 +10174,10 @@
       {
         "numero": "0042149883",
         "numero_display": "42149883",
-        "duracao": "01:25",
-        "duracao_horas": 1.4166666666666667,
+        "duracao": "01:42",
+        "duracao_horas": 1.7,
         "clientes_afetados": 1,
-        "conh": 1.4098,
+        "conh": 1.6615,
         "municipio": "Camocim",
         "municipio_norm": "CAMOCIM",
         "regional": "CAMOCIM",
@@ -10206,7 +10206,7 @@
         "municipio": "Camocim",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 1.41
+        "chi": 1.66
       }
     ],
     "totals": {
@@ -10218,10 +10218,10 @@
     {
       "numero": "0042149883",
       "numero_display": "42149883",
-      "duracao": "01:25",
-      "duracao_horas": 1.4166666666666667,
+      "duracao": "01:42",
+      "duracao_horas": 1.7,
       "clientes_afetados": 1,
-      "conh": 1.4098,
+      "conh": 1.6615,
       "municipio": "Camocim",
       "municipio_norm": "CAMOCIM",
       "regional": "CAMOCIM",
@@ -10242,11 +10242,11 @@
     }
   ],
   "metadata": {
-    "raw_total": 106,
+    "raw_total": 107,
     "legacy_total": 106,
     "territory_total": 1,
     "dropped_finalizado": 0,
-    "dropped_unmapped": 105,
+    "dropped_unmapped": 106,
     "mapped_by_alimentador": 1,
     "mapped_by_conjunto": 0,
     "mapped_by_sucursal": 0,
