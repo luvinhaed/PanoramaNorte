@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "PAINEL OPERACIONAL - NORTE",
-    "updated_at_iso": "2026-10-15T05:22:09",
-    "updated_at_display": "15/10/2026 05:22:09",
-    "data_updated_at_iso": "2026-10-15T05:22:09",
-    "data_updated_at_display": "15/10/2026 05:22:09",
+    "updated_at_iso": "2026-10-15T05:39:00",
+    "updated_at_display": "15/10/2026 05:39:00",
+    "data_updated_at_iso": "2026-10-15T05:39:00",
+    "data_updated_at_display": "15/10/2026 05:39:00",
     "refresh_seconds": 1000,
     "source_mode": "API corporativa + API legada"
   },
@@ -10120,10 +10120,10 @@
       {
         "numero": "0042226891",
         "numero_display": "42226891",
-        "duracao": "10:59",
-        "duracao_horas": 10.983333333333333,
+        "duracao": "11:16",
+        "duracao_horas": 11.266666666666667,
         "clientes_afetados": 1,
-        "conh": 10.9748,
+        "conh": 11.2245,
         "municipio": "Camocim",
         "municipio_norm": "CAMOCIM",
         "regional": "CAMOCIM",
@@ -10145,10 +10145,10 @@
       {
         "numero": "0042227425",
         "numero_display": "42227425",
-        "duracao": "09:31",
-        "duracao_horas": 9.516666666666667,
+        "duracao": "09:48",
+        "duracao_horas": 9.8,
         "clientes_afetados": 1,
-        "conh": 9.5058,
+        "conh": 9.7555,
         "municipio": "Ibiapina",
         "municipio_norm": "IBIAPINA",
         "regional": "INHUÇU",
@@ -10170,8 +10170,8 @@
       {
         "numero": "0042227573",
         "numero_display": "42227573",
-        "duracao": "08:51",
-        "duracao_horas": 8.85,
+        "duracao": "09:08",
+        "duracao_horas": 9.133333333333333,
         "clientes_afetados": 0,
         "conh": 0.0,
         "municipio": "INHUÇU",
@@ -10197,10 +10197,10 @@
       {
         "numero": "0042226891",
         "numero_display": "42226891",
-        "duracao": "10:59",
-        "duracao_horas": 10.983333333333333,
+        "duracao": "11:16",
+        "duracao_horas": 11.266666666666667,
         "clientes_afetados": 1,
-        "conh": 10.9748,
+        "conh": 11.2245,
         "municipio": "Camocim",
         "municipio_norm": "CAMOCIM",
         "regional": "CAMOCIM",
@@ -10222,10 +10222,10 @@
       {
         "numero": "0042227425",
         "numero_display": "42227425",
-        "duracao": "09:31",
-        "duracao_horas": 9.516666666666667,
+        "duracao": "09:48",
+        "duracao_horas": 9.8,
         "clientes_afetados": 1,
-        "conh": 9.5058,
+        "conh": 9.7555,
         "municipio": "Ibiapina",
         "municipio_norm": "IBIAPINA",
         "regional": "INHUÇU",
@@ -10249,10 +10249,10 @@
       {
         "numero": "0042227425",
         "numero_display": "42227425",
-        "duracao": "09:31",
-        "duracao_horas": 9.516666666666667,
+        "duracao": "09:48",
+        "duracao_horas": 9.8,
         "clientes_afetados": 1,
-        "conh": 9.5058,
+        "conh": 9.7555,
         "municipio": "Ibiapina",
         "municipio_norm": "IBIAPINA",
         "regional": "INHUÇU",
@@ -10274,10 +10274,10 @@
       {
         "numero": "0042226891",
         "numero_display": "42226891",
-        "duracao": "10:59",
-        "duracao_horas": 10.983333333333333,
+        "duracao": "11:16",
+        "duracao_horas": 11.266666666666667,
         "clientes_afetados": 1,
-        "conh": 10.9748,
+        "conh": 11.2245,
         "municipio": "Camocim",
         "municipio_norm": "CAMOCIM",
         "regional": "CAMOCIM",
@@ -10306,7 +10306,7 @@
         "municipio": "Ibiapina",
         "incidencias": 2,
         "clientes_afetados": 1,
-        "chi": 9.51
+        "chi": 9.76
       },
       {
         "equipe": "CMK-RD-01D",
@@ -10314,7 +10314,7 @@
         "municipio": "Camocim",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 10.97
+        "chi": 11.22
       }
     ],
     "totals": {
@@ -10326,10 +10326,10 @@
     {
       "numero": "0042226891",
       "numero_display": "42226891",
-      "duracao": "10:59",
-      "duracao_horas": 10.983333333333333,
+      "duracao": "11:16",
+      "duracao_horas": 11.266666666666667,
       "clientes_afetados": 1,
-      "conh": 10.9748,
+      "conh": 11.2245,
       "municipio": "Camocim",
       "municipio_norm": "CAMOCIM",
       "regional": "CAMOCIM",
@@ -10351,10 +10351,10 @@
     {
       "numero": "0042227425",
       "numero_display": "42227425",
-      "duracao": "09:31",
-      "duracao_horas": 9.516666666666667,
+      "duracao": "09:48",
+      "duracao_horas": 9.8,
       "clientes_afetados": 1,
-      "conh": 9.5058,
+      "conh": 9.7555,
       "municipio": "Ibiapina",
       "municipio_norm": "IBIAPINA",
       "regional": "INHUÇU",
@@ -10376,8 +10376,8 @@
     {
       "numero": "0042227573",
       "numero_display": "42227573",
-      "duracao": "08:51",
-      "duracao_horas": 8.85,
+      "duracao": "09:08",
+      "duracao_horas": 9.133333333333333,
       "clientes_afetados": 0,
       "conh": 0.0,
       "municipio": "INHUÇU",
@@ -10400,11 +10400,11 @@
     }
   ],
   "metadata": {
-    "raw_total": 332,
-    "legacy_total": 330,
+    "raw_total": 326,
+    "legacy_total": 326,
     "territory_total": 3,
     "dropped_finalizado": 1,
-    "dropped_unmapped": 328,
+    "dropped_unmapped": 322,
     "mapped_by_alimentador": 3,
     "mapped_by_conjunto": 0,
     "mapped_by_sucursal": 0,
