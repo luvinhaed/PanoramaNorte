@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "PAINEL OPERACIONAL - NORTE",
-    "updated_at_iso": "2026-10-18T02:59:07",
-    "updated_at_display": "18/10/2026 02:59:07",
-    "data_updated_at_iso": "2026-10-18T02:59:07",
-    "data_updated_at_display": "18/10/2026 02:59:07",
+    "updated_at_iso": "2026-10-18T03:49:34",
+    "updated_at_display": "18/10/2026 03:49:34",
+    "data_updated_at_iso": "2026-10-18T03:49:34",
+    "data_updated_at_display": "18/10/2026 03:49:34",
     "refresh_seconds": 1000,
     "source_mode": "API corporativa + API legada"
   },
@@ -27,14 +27,14 @@
       },
       {
         "regional": "CAMOCIM",
-        "clientes_afetados": 0,
-        "incidencias_ativas": 0,
+        "clientes_afetados": 1,
+        "incidencias_ativas": 2,
         "nao_despachadas": 0,
-        "qtde_equipes": 0,
-        "qtde_equipes_recomendadas": 0,
+        "qtde_equipes": 2,
+        "qtde_equipes_recomendadas": 1,
         "aporte_recomendado": 0,
         "mais_de_um_aviso": 0,
-        "dur_lt_8": 0,
+        "dur_lt_8": 2,
         "dur_8_16": 0,
         "dur_16_24": 0,
         "dur_gt_24": 0,
@@ -72,14 +72,14 @@
       },
       {
         "regional": "NORTE",
-        "clientes_afetados": 0,
-        "incidencias_ativas": 0,
+        "clientes_afetados": 1,
+        "incidencias_ativas": 2,
         "nao_despachadas": 0,
-        "qtde_equipes": 0,
-        "qtde_equipes_recomendadas": 0,
+        "qtde_equipes": 2,
+        "qtde_equipes_recomendadas": 1,
         "aporte_recomendado": 0,
         "mais_de_um_aviso": 0,
-        "dur_lt_8": 0,
+        "dur_lt_8": 2,
         "dur_8_16": 0,
         "dur_16_24": 0,
         "dur_gt_24": 0,
@@ -9920,9 +9920,9 @@
       {
         "municipio": "Barroquinha",
         "regional": "CAMOCIM",
-        "incidencias": 0,
-        "equipes": 0,
-        "tem_equipe_ativa": false
+        "incidencias": 1,
+        "equipes": 1,
+        "tem_equipe_ativa": true
       },
       {
         "municipio": "Camocim",
@@ -9990,9 +9990,9 @@
       {
         "municipio": "Granja",
         "regional": "CAMOCIM",
-        "incidencias": 0,
-        "equipes": 0,
-        "tem_equipe_ativa": false
+        "incidencias": 1,
+        "equipes": 1,
+        "tem_equipe_ativa": true
       },
       {
         "municipio": "Groaíras",
@@ -10116,28 +10116,199 @@
     ]
   },
   "rankings": {
-    "duracao": [],
-    "chi": [],
-    "cli": []
+    "duracao": [
+      {
+        "numero": "0042247629",
+        "numero_display": "42247629",
+        "duracao": "00:49",
+        "duracao_horas": 0.8166666666666667,
+        "clientes_afetados": 0,
+        "conh": 0.0,
+        "municipio": "Granja",
+        "municipio_norm": "GRANJA",
+        "regional": "CAMOCIM",
+        "equipe": "CMK-RD-01D",
+        "avisos": 1,
+        "sucursal": "CAMOCIM",
+        "polo": "DNORT",
+        "polo_classificacao_origem": "alimentador",
+        "pendencia": "Não",
+        "status_execucao": "Despachado",
+        "lat": -3.12305568,
+        "lon": -40.82972673,
+        "coord_source": "Coordenada_Cliente",
+        "endereco": "RUA 3 DE MAIO 00115",
+        "ponto_eletrico": "TIT1651",
+        "bairro": "",
+        "map_visible": true
+      },
+      {
+        "numero": "0042247637",
+        "numero_display": "42247637",
+        "duracao": "00:19",
+        "duracao_horas": 0.31666666666666665,
+        "clientes_afetados": 1,
+        "conh": 0.309,
+        "municipio": "Barroquinha",
+        "municipio_norm": "BARROQUINHA",
+        "regional": "CAMOCIM",
+        "equipe": "CMC-TR-03D",
+        "avisos": 1,
+        "sucursal": "CAMOCIM",
+        "polo": "DNORT",
+        "polo_classificacao_origem": "alimentador",
+        "pendencia": "Não",
+        "status_execucao": "Despachado",
+        "lat": -3.08385043,
+        "lon": -41.14113101,
+        "coord_source": "Coordenada_Cliente",
+        "endereco": "DT  CUMATI 02563",
+        "ponto_eletrico": "TEC7405",
+        "bairro": "",
+        "map_visible": true
+      }
+    ],
+    "chi": [
+      {
+        "numero": "0042247637",
+        "numero_display": "42247637",
+        "duracao": "00:19",
+        "duracao_horas": 0.31666666666666665,
+        "clientes_afetados": 1,
+        "conh": 0.309,
+        "municipio": "Barroquinha",
+        "municipio_norm": "BARROQUINHA",
+        "regional": "CAMOCIM",
+        "equipe": "CMC-TR-03D",
+        "avisos": 1,
+        "sucursal": "CAMOCIM",
+        "polo": "DNORT",
+        "polo_classificacao_origem": "alimentador",
+        "pendencia": "Não",
+        "status_execucao": "Despachado",
+        "lat": -3.08385043,
+        "lon": -41.14113101,
+        "coord_source": "Coordenada_Cliente",
+        "endereco": "DT  CUMATI 02563",
+        "ponto_eletrico": "TEC7405",
+        "bairro": "",
+        "map_visible": true
+      }
+    ],
+    "cli": [
+      {
+        "numero": "0042247637",
+        "numero_display": "42247637",
+        "duracao": "00:19",
+        "duracao_horas": 0.31666666666666665,
+        "clientes_afetados": 1,
+        "conh": 0.309,
+        "municipio": "Barroquinha",
+        "municipio_norm": "BARROQUINHA",
+        "regional": "CAMOCIM",
+        "equipe": "CMC-TR-03D",
+        "avisos": 1,
+        "sucursal": "CAMOCIM",
+        "polo": "DNORT",
+        "polo_classificacao_origem": "alimentador",
+        "pendencia": "Não",
+        "status_execucao": "Despachado",
+        "lat": -3.08385043,
+        "lon": -41.14113101,
+        "coord_source": "Coordenada_Cliente",
+        "endereco": "DT  CUMATI 02563",
+        "ponto_eletrico": "TEC7405",
+        "bairro": "",
+        "map_visible": true
+      }
+    ]
   },
   "teams": {
-    "rows": [],
+    "rows": [
+      {
+        "equipe": "CMC-TR-03D",
+        "regional": "CAMOCIM",
+        "municipio": "Barroquinha",
+        "incidencias": 1,
+        "clientes_afetados": 1,
+        "chi": 0.31
+      },
+      {
+        "equipe": "CMK-RD-01D",
+        "regional": "CAMOCIM",
+        "municipio": "Granja",
+        "incidencias": 1,
+        "clientes_afetados": 0,
+        "chi": 0.0
+      }
+    ],
     "totals": {
-      "equipes_ativas": 0,
-      "incidencias_com_equipe": 0
+      "equipes_ativas": 2,
+      "incidencias_com_equipe": 2
     }
   },
-  "rows": [],
+  "rows": [
+    {
+      "numero": "0042247629",
+      "numero_display": "42247629",
+      "duracao": "00:49",
+      "duracao_horas": 0.8166666666666667,
+      "clientes_afetados": 0,
+      "conh": 0.0,
+      "municipio": "Granja",
+      "municipio_norm": "GRANJA",
+      "regional": "CAMOCIM",
+      "equipe": "CMK-RD-01D",
+      "avisos": 1,
+      "sucursal": "CAMOCIM",
+      "polo": "DNORT",
+      "polo_classificacao_origem": "alimentador",
+      "pendencia": "Não",
+      "status_execucao": "Despachado",
+      "lat": -3.12305568,
+      "lon": -40.82972673,
+      "coord_source": "Coordenada_Cliente",
+      "endereco": "RUA 3 DE MAIO 00115",
+      "ponto_eletrico": "TIT1651",
+      "bairro": "",
+      "map_visible": true
+    },
+    {
+      "numero": "0042247637",
+      "numero_display": "42247637",
+      "duracao": "00:19",
+      "duracao_horas": 0.31666666666666665,
+      "clientes_afetados": 1,
+      "conh": 0.309,
+      "municipio": "Barroquinha",
+      "municipio_norm": "BARROQUINHA",
+      "regional": "CAMOCIM",
+      "equipe": "CMC-TR-03D",
+      "avisos": 1,
+      "sucursal": "CAMOCIM",
+      "polo": "DNORT",
+      "polo_classificacao_origem": "alimentador",
+      "pendencia": "Não",
+      "status_execucao": "Despachado",
+      "lat": -3.08385043,
+      "lon": -41.14113101,
+      "coord_source": "Coordenada_Cliente",
+      "endereco": "DT  CUMATI 02563",
+      "ponto_eletrico": "TEC7405",
+      "bairro": "",
+      "map_visible": true
+    }
+  ],
   "metadata": {
-    "raw_total": 217,
-    "legacy_total": 216,
-    "territory_total": 0,
+    "raw_total": 198,
+    "legacy_total": 197,
+    "territory_total": 2,
     "dropped_finalizado": 0,
-    "dropped_unmapped": 217,
-    "mapped_by_alimentador": 0,
+    "dropped_unmapped": 196,
+    "mapped_by_alimentador": 2,
     "mapped_by_conjunto": 0,
     "mapped_by_sucursal": 0,
-    "mapped_on_map": 0,
+    "mapped_on_map": 2,
     "mapped_by_sucursal_fallback": 0
   }
 }
