@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "PAINEL OPERACIONAL - NORTE",
-    "updated_at_iso": "2026-10-18T04:23:14",
-    "updated_at_display": "18/10/2026 04:23:14",
-    "data_updated_at_iso": "2026-10-18T04:23:14",
-    "data_updated_at_display": "18/10/2026 04:23:14",
+    "updated_at_iso": "2026-10-18T04:40:10",
+    "updated_at_display": "18/10/2026 04:40:10",
+    "data_updated_at_iso": "2026-10-18T04:40:10",
+    "data_updated_at_display": "18/10/2026 04:40:10",
     "refresh_seconds": 1000,
     "source_mode": "API corporativa + API legada"
   },
@@ -10120,8 +10120,8 @@
       {
         "numero": "0042247629",
         "numero_display": "42247629",
-        "duracao": "01:22",
-        "duracao_horas": 1.3666666666666667,
+        "duracao": "01:39",
+        "duracao_horas": 1.65,
         "clientes_afetados": 0,
         "conh": 0.0,
         "municipio": "Granja",
@@ -10145,10 +10145,10 @@
       {
         "numero": "0042247637",
         "numero_display": "42247637",
-        "duracao": "00:53",
-        "duracao_horas": 0.8833333333333333,
+        "duracao": "01:10",
+        "duracao_horas": 1.1666666666666667,
         "clientes_afetados": 1,
-        "conh": 0.86,
+        "conh": 1.1577,
         "municipio": "Barroquinha",
         "municipio_norm": "BARROQUINHA",
         "regional": "CAMOCIM",
@@ -10172,10 +10172,10 @@
       {
         "numero": "0042247637",
         "numero_display": "42247637",
-        "duracao": "00:53",
-        "duracao_horas": 0.8833333333333333,
+        "duracao": "01:10",
+        "duracao_horas": 1.1666666666666667,
         "clientes_afetados": 1,
-        "conh": 0.86,
+        "conh": 1.1577,
         "municipio": "Barroquinha",
         "municipio_norm": "BARROQUINHA",
         "regional": "CAMOCIM",
@@ -10199,10 +10199,10 @@
       {
         "numero": "0042247637",
         "numero_display": "42247637",
-        "duracao": "00:53",
-        "duracao_horas": 0.8833333333333333,
+        "duracao": "01:10",
+        "duracao_horas": 1.1666666666666667,
         "clientes_afetados": 1,
-        "conh": 0.86,
+        "conh": 1.1577,
         "municipio": "Barroquinha",
         "municipio_norm": "BARROQUINHA",
         "regional": "CAMOCIM",
@@ -10231,7 +10231,7 @@
         "municipio": "Barroquinha",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 0.86
+        "chi": 1.16
       },
       {
         "equipe": "CMK-RD-01D",
@@ -10251,8 +10251,8 @@
     {
       "numero": "0042247629",
       "numero_display": "42247629",
-      "duracao": "01:22",
-      "duracao_horas": 1.3666666666666667,
+      "duracao": "01:39",
+      "duracao_horas": 1.65,
       "clientes_afetados": 0,
       "conh": 0.0,
       "municipio": "Granja",
@@ -10276,10 +10276,10 @@
     {
       "numero": "0042247637",
       "numero_display": "42247637",
-      "duracao": "00:53",
-      "duracao_horas": 0.8833333333333333,
+      "duracao": "01:10",
+      "duracao_horas": 1.1666666666666667,
       "clientes_afetados": 1,
-      "conh": 0.86,
+      "conh": 1.1577,
       "municipio": "Barroquinha",
       "municipio_norm": "BARROQUINHA",
       "regional": "CAMOCIM",
@@ -10300,11 +10300,11 @@
     }
   ],
   "metadata": {
-    "raw_total": 199,
-    "legacy_total": 197,
+    "raw_total": 201,
+    "legacy_total": 198,
     "territory_total": 2,
     "dropped_finalizado": 0,
-    "dropped_unmapped": 197,
+    "dropped_unmapped": 199,
     "mapped_by_alimentador": 2,
     "mapped_by_conjunto": 0,
     "mapped_by_sucursal": 0,
