@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "PAINEL OPERACIONAL - NORTE",
-    "updated_at_iso": "2026-10-27T05:23:44",
-    "updated_at_display": "27/10/2026 05:23:44",
-    "data_updated_at_iso": "2026-10-27T05:23:44",
-    "data_updated_at_display": "27/10/2026 05:23:44",
+    "updated_at_iso": "2026-10-27T05:40:36",
+    "updated_at_display": "27/10/2026 05:40:36",
+    "data_updated_at_iso": "2026-10-27T05:40:36",
+    "data_updated_at_display": "27/10/2026 05:40:36",
     "refresh_seconds": 1000,
     "source_mode": "API corporativa + API legada"
   },
@@ -58,14 +58,14 @@
       {
         "regional": "SOBRAL",
         "clientes_afetados": 4,
-        "incidencias_ativas": 6,
+        "incidencias_ativas": 5,
         "nao_despachadas": 0,
-        "qtde_equipes": 6,
+        "qtde_equipes": 5,
         "qtde_equipes_recomendadas": 2,
         "aporte_recomendado": 0,
         "mais_de_um_aviso": 0,
         "dur_lt_8": 1,
-        "dur_8_16": 5,
+        "dur_8_16": 4,
         "dur_16_24": 0,
         "dur_gt_24": 0,
         "dur_gt_48": 0
@@ -73,14 +73,14 @@
       {
         "regional": "NORTE",
         "clientes_afetados": 4,
-        "incidencias_ativas": 6,
+        "incidencias_ativas": 5,
         "nao_despachadas": 0,
-        "qtde_equipes": 6,
+        "qtde_equipes": 5,
         "qtde_equipes_recomendadas": 2,
         "aporte_recomendado": 0,
         "mais_de_um_aviso": 0,
         "dur_lt_8": 1,
-        "dur_8_16": 5,
+        "dur_8_16": 4,
         "dur_16_24": 0,
         "dur_gt_24": 0,
         "dur_gt_48": 0
@@ -10060,8 +10060,8 @@
       {
         "municipio": "Santana do Acaraú",
         "regional": "SOBRAL",
-        "incidencias": 2,
-        "equipes": 2,
+        "incidencias": 1,
+        "equipes": 1,
         "tem_equipe_ativa": true
       },
       {
@@ -10118,35 +10118,10 @@
   "rankings": {
     "duracao": [
       {
-        "numero": "0042312259",
-        "numero_display": "42312259",
-        "duracao": "15:00",
-        "duracao_horas": 15.0,
-        "clientes_afetados": 0,
-        "conh": 0.0,
-        "municipio": "Santana do Acaraú",
-        "municipio_norm": "SANTANA DO ACARAU",
-        "regional": "SOBRAL",
-        "equipe": "SBL-RD-08D",
-        "avisos": 1,
-        "sucursal": "SOBRAL",
-        "polo": "DNORT",
-        "polo_classificacao_origem": "alimentador",
-        "pendencia": "Não",
-        "status_execucao": "Despachado",
-        "lat": -3.34853762,
-        "lon": -40.17152151,
-        "coord_source": "Coordenada_Cliente",
-        "endereco": "DISTRITO DE PARAPUI 00000",
-        "ponto_eletrico": "TTE2113",
-        "bairro": "",
-        "map_visible": true
-      },
-      {
         "numero": "0042312579",
         "numero_display": "42312579",
-        "duracao": "14:28",
-        "duracao_horas": 14.466666666666667,
+        "duracao": "14:45",
+        "duracao_horas": 14.75,
         "clientes_afetados": 0,
         "conh": 0.0,
         "municipio": "Forquilha",
@@ -10170,10 +10145,10 @@
       {
         "numero": "0042313023",
         "numero_display": "42313023",
-        "duracao": "13:44",
-        "duracao_horas": 13.733333333333333,
+        "duracao": "14:01",
+        "duracao_horas": 14.016666666666667,
         "clientes_afetados": 1,
-        "conh": 13.7056,
+        "conh": 14.0056,
         "municipio": "Sobral",
         "municipio_norm": "SOBRAL",
         "regional": "SOBRAL",
@@ -10195,10 +10170,10 @@
       {
         "numero": "0042313307",
         "numero_display": "42313307",
-        "duracao": "13:10",
-        "duracao_horas": 13.166666666666666,
+        "duracao": "13:27",
+        "duracao_horas": 13.45,
         "clientes_afetados": 1,
-        "conh": 13.1409,
+        "conh": 13.441,
         "municipio": "Santana do Acaraú",
         "municipio_norm": "SANTANA DO ACARAU",
         "regional": "SOBRAL",
@@ -10220,10 +10195,10 @@
       {
         "numero": "0042314321",
         "numero_display": "42314321",
-        "duracao": "10:50",
-        "duracao_horas": 10.833333333333334,
+        "duracao": "11:07",
+        "duracao_horas": 11.116666666666667,
         "clientes_afetados": 1,
-        "conh": 10.8067,
+        "conh": 11.1067,
         "municipio": "Coreaú",
         "municipio_norm": "COREAU",
         "regional": "SOBRAL",
@@ -10245,10 +10220,10 @@
       {
         "numero": "0042315535",
         "numero_display": "42315535",
-        "duracao": "06:54",
-        "duracao_horas": 6.9,
+        "duracao": "07:11",
+        "duracao_horas": 7.183333333333334,
         "clientes_afetados": 1,
-        "conh": 6.8679,
+        "conh": 7.1679,
         "municipio": "Massapê",
         "municipio_norm": "MASSAPE",
         "regional": "SOBRAL",
@@ -10272,10 +10247,10 @@
       {
         "numero": "0042313023",
         "numero_display": "42313023",
-        "duracao": "13:44",
-        "duracao_horas": 13.733333333333333,
+        "duracao": "14:01",
+        "duracao_horas": 14.016666666666667,
         "clientes_afetados": 1,
-        "conh": 13.7056,
+        "conh": 14.0056,
         "municipio": "Sobral",
         "municipio_norm": "SOBRAL",
         "regional": "SOBRAL",
@@ -10297,10 +10272,10 @@
       {
         "numero": "0042313307",
         "numero_display": "42313307",
-        "duracao": "13:10",
-        "duracao_horas": 13.166666666666666,
+        "duracao": "13:27",
+        "duracao_horas": 13.45,
         "clientes_afetados": 1,
-        "conh": 13.1409,
+        "conh": 13.441,
         "municipio": "Santana do Acaraú",
         "municipio_norm": "SANTANA DO ACARAU",
         "regional": "SOBRAL",
@@ -10322,10 +10297,10 @@
       {
         "numero": "0042314321",
         "numero_display": "42314321",
-        "duracao": "10:50",
-        "duracao_horas": 10.833333333333334,
+        "duracao": "11:07",
+        "duracao_horas": 11.116666666666667,
         "clientes_afetados": 1,
-        "conh": 10.8067,
+        "conh": 11.1067,
         "municipio": "Coreaú",
         "municipio_norm": "COREAU",
         "regional": "SOBRAL",
@@ -10347,10 +10322,10 @@
       {
         "numero": "0042315535",
         "numero_display": "42315535",
-        "duracao": "06:54",
-        "duracao_horas": 6.9,
+        "duracao": "07:11",
+        "duracao_horas": 7.183333333333334,
         "clientes_afetados": 1,
-        "conh": 6.8679,
+        "conh": 7.1679,
         "municipio": "Massapê",
         "municipio_norm": "MASSAPE",
         "regional": "SOBRAL",
@@ -10374,10 +10349,10 @@
       {
         "numero": "0042315535",
         "numero_display": "42315535",
-        "duracao": "06:54",
-        "duracao_horas": 6.9,
+        "duracao": "07:11",
+        "duracao_horas": 7.183333333333334,
         "clientes_afetados": 1,
-        "conh": 6.8679,
+        "conh": 7.1679,
         "municipio": "Massapê",
         "municipio_norm": "MASSAPE",
         "regional": "SOBRAL",
@@ -10399,10 +10374,10 @@
       {
         "numero": "0042314321",
         "numero_display": "42314321",
-        "duracao": "10:50",
-        "duracao_horas": 10.833333333333334,
+        "duracao": "11:07",
+        "duracao_horas": 11.116666666666667,
         "clientes_afetados": 1,
-        "conh": 10.8067,
+        "conh": 11.1067,
         "municipio": "Coreaú",
         "municipio_norm": "COREAU",
         "regional": "SOBRAL",
@@ -10424,10 +10399,10 @@
       {
         "numero": "0042313307",
         "numero_display": "42313307",
-        "duracao": "13:10",
-        "duracao_horas": 13.166666666666666,
+        "duracao": "13:27",
+        "duracao_horas": 13.45,
         "clientes_afetados": 1,
-        "conh": 13.1409,
+        "conh": 13.441,
         "municipio": "Santana do Acaraú",
         "municipio_norm": "SANTANA DO ACARAU",
         "regional": "SOBRAL",
@@ -10449,10 +10424,10 @@
       {
         "numero": "0042313023",
         "numero_display": "42313023",
-        "duracao": "13:44",
-        "duracao_horas": 13.733333333333333,
+        "duracao": "14:01",
+        "duracao_horas": 14.016666666666667,
         "clientes_afetados": 1,
-        "conh": 13.7056,
+        "conh": 14.0056,
         "municipio": "Sobral",
         "municipio_norm": "SOBRAL",
         "regional": "SOBRAL",
@@ -10481,7 +10456,7 @@
         "municipio": "Sobral",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 13.71
+        "chi": 14.01
       },
       {
         "equipe": "SBU-RD-22C",
@@ -10489,7 +10464,7 @@
         "municipio": "Santana do Acaraú",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 13.14
+        "chi": 13.44
       },
       {
         "equipe": "SBL-RD-07D",
@@ -10497,7 +10472,7 @@
         "municipio": "Coreaú",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 10.81
+        "chi": 11.11
       },
       {
         "equipe": "SBM-RD-12C",
@@ -10505,7 +10480,7 @@
         "municipio": "Massapê",
         "incidencias": 1,
         "clientes_afetados": 1,
-        "chi": 6.87
+        "chi": 7.17
       },
       {
         "equipe": "SBR-RD-04C",
@@ -10514,52 +10489,19 @@
         "incidencias": 1,
         "clientes_afetados": 0,
         "chi": 0.0
-      },
-      {
-        "equipe": "SBL-RD-08D",
-        "regional": "SOBRAL",
-        "municipio": "Santana do Acaraú",
-        "incidencias": 1,
-        "clientes_afetados": 0,
-        "chi": 0.0
       }
     ],
     "totals": {
-      "equipes_ativas": 6,
-      "incidencias_com_equipe": 6
+      "equipes_ativas": 5,
+      "incidencias_com_equipe": 5
     }
   },
   "rows": [
     {
-      "numero": "0042312259",
-      "numero_display": "42312259",
-      "duracao": "15:00",
-      "duracao_horas": 15.0,
-      "clientes_afetados": 0,
-      "conh": 0.0,
-      "municipio": "Santana do Acaraú",
-      "municipio_norm": "SANTANA DO ACARAU",
-      "regional": "SOBRAL",
-      "equipe": "SBL-RD-08D",
-      "avisos": 1,
-      "sucursal": "SOBRAL",
-      "polo": "DNORT",
-      "polo_classificacao_origem": "alimentador",
-      "pendencia": "Não",
-      "status_execucao": "Despachado",
-      "lat": -3.34853762,
-      "lon": -40.17152151,
-      "coord_source": "Coordenada_Cliente",
-      "endereco": "DISTRITO DE PARAPUI 00000",
-      "ponto_eletrico": "TTE2113",
-      "bairro": "",
-      "map_visible": true
-    },
-    {
       "numero": "0042312579",
       "numero_display": "42312579",
-      "duracao": "14:28",
-      "duracao_horas": 14.466666666666667,
+      "duracao": "14:45",
+      "duracao_horas": 14.75,
       "clientes_afetados": 0,
       "conh": 0.0,
       "municipio": "Forquilha",
@@ -10583,10 +10525,10 @@
     {
       "numero": "0042313023",
       "numero_display": "42313023",
-      "duracao": "13:44",
-      "duracao_horas": 13.733333333333333,
+      "duracao": "14:01",
+      "duracao_horas": 14.016666666666667,
       "clientes_afetados": 1,
-      "conh": 13.7056,
+      "conh": 14.0056,
       "municipio": "Sobral",
       "municipio_norm": "SOBRAL",
       "regional": "SOBRAL",
@@ -10608,10 +10550,10 @@
     {
       "numero": "0042313307",
       "numero_display": "42313307",
-      "duracao": "13:10",
-      "duracao_horas": 13.166666666666666,
+      "duracao": "13:27",
+      "duracao_horas": 13.45,
       "clientes_afetados": 1,
-      "conh": 13.1409,
+      "conh": 13.441,
       "municipio": "Santana do Acaraú",
       "municipio_norm": "SANTANA DO ACARAU",
       "regional": "SOBRAL",
@@ -10633,10 +10575,10 @@
     {
       "numero": "0042314321",
       "numero_display": "42314321",
-      "duracao": "10:50",
-      "duracao_horas": 10.833333333333334,
+      "duracao": "11:07",
+      "duracao_horas": 11.116666666666667,
       "clientes_afetados": 1,
-      "conh": 10.8067,
+      "conh": 11.1067,
       "municipio": "Coreaú",
       "municipio_norm": "COREAU",
       "regional": "SOBRAL",
@@ -10658,10 +10600,10 @@
     {
       "numero": "0042315535",
       "numero_display": "42315535",
-      "duracao": "06:54",
-      "duracao_horas": 6.9,
+      "duracao": "07:11",
+      "duracao_horas": 7.183333333333334,
       "clientes_afetados": 1,
-      "conh": 6.8679,
+      "conh": 7.1679,
       "municipio": "Massapê",
       "municipio_norm": "MASSAPE",
       "regional": "SOBRAL",
@@ -10682,15 +10624,15 @@
     }
   ],
   "metadata": {
-    "raw_total": 393,
-    "legacy_total": 395,
-    "territory_total": 6,
+    "raw_total": 403,
+    "legacy_total": 401,
+    "territory_total": 5,
     "dropped_finalizado": 0,
-    "dropped_unmapped": 387,
-    "mapped_by_alimentador": 6,
+    "dropped_unmapped": 398,
+    "mapped_by_alimentador": 5,
     "mapped_by_conjunto": 0,
     "mapped_by_sucursal": 0,
-    "mapped_on_map": 6,
+    "mapped_on_map": 5,
     "mapped_by_sucursal_fallback": 0
   }
 }
