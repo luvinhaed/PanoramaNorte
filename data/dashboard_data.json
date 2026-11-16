@@ -1,10 +1,10 @@
 {
   "meta": {
     "title": "PAINEL OPERACIONAL - NORTE",
-    "updated_at_iso": "2026-11-16T02:59:10",
-    "updated_at_display": "16/11/2026 02:59:10",
-    "data_updated_at_iso": "2026-11-16T02:59:10",
-    "data_updated_at_display": "16/11/2026 02:59:10",
+    "updated_at_iso": "2026-11-16T03:15:59",
+    "updated_at_display": "16/11/2026 03:15:59",
+    "data_updated_at_iso": "2026-11-16T03:15:59",
+    "data_updated_at_display": "16/11/2026 03:15:59",
     "refresh_seconds": 1000,
     "source_mode": "API corporativa + API legada"
   },
@@ -10120,10 +10120,10 @@
       {
         "numero": "0042482703",
         "numero_display": "42482703",
-        "duracao": "03:20",
-        "duracao_horas": 3.3333333333333335,
+        "duracao": "03:37",
+        "duracao_horas": 3.6166666666666667,
         "clientes_afetados": 6,
-        "conh": 19.8687,
+        "conh": 21.6679,
         "municipio": "Barroquinha",
         "municipio_norm": "BARROQUINHA",
         "regional": "CAMOCIM",
@@ -10147,10 +10147,10 @@
       {
         "numero": "0042482703",
         "numero_display": "42482703",
-        "duracao": "03:20",
-        "duracao_horas": 3.3333333333333335,
+        "duracao": "03:37",
+        "duracao_horas": 3.6166666666666667,
         "clientes_afetados": 6,
-        "conh": 19.8687,
+        "conh": 21.6679,
         "municipio": "Barroquinha",
         "municipio_norm": "BARROQUINHA",
         "regional": "CAMOCIM",
@@ -10174,10 +10174,10 @@
       {
         "numero": "0042482703",
         "numero_display": "42482703",
-        "duracao": "03:20",
-        "duracao_horas": 3.3333333333333335,
+        "duracao": "03:37",
+        "duracao_horas": 3.6166666666666667,
         "clientes_afetados": 6,
-        "conh": 19.8687,
+        "conh": 21.6679,
         "municipio": "Barroquinha",
         "municipio_norm": "BARROQUINHA",
         "regional": "CAMOCIM",
@@ -10206,7 +10206,7 @@
         "municipio": "Barroquinha",
         "incidencias": 1,
         "clientes_afetados": 6,
-        "chi": 19.87
+        "chi": 21.67
       }
     ],
     "totals": {
@@ -10218,10 +10218,10 @@
     {
       "numero": "0042482703",
       "numero_display": "42482703",
-      "duracao": "03:20",
-      "duracao_horas": 3.3333333333333335,
+      "duracao": "03:37",
+      "duracao_horas": 3.6166666666666667,
       "clientes_afetados": 6,
-      "conh": 19.8687,
+      "conh": 21.6679,
       "municipio": "Barroquinha",
       "municipio_norm": "BARROQUINHA",
       "regional": "CAMOCIM",
@@ -10242,11 +10242,11 @@
     }
   ],
   "metadata": {
-    "raw_total": 127,
-    "legacy_total": 124,
+    "raw_total": 125,
+    "legacy_total": 122,
     "territory_total": 1,
-    "dropped_finalizado": 0,
-    "dropped_unmapped": 126,
+    "dropped_finalizado": 1,
+    "dropped_unmapped": 123,
     "mapped_by_alimentador": 1,
     "mapped_by_conjunto": 0,
     "mapped_by_sucursal": 0,
